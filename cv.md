@@ -30,18 +30,18 @@ I’m responsible, goal-oriented, communicative, open-minded, easy-going, easy-l
 
 ## Education
 
-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-HTML, CSS, JavaScript, SaSS on the w3schools (in progress)
+- HTML, CSS, JavaScript, SaSS on the w3schools (in progress)
 
-National Aerospace University "KhAI", Kharkiv
+- National Aerospace University "KhAI", Kharkiv
 space-system engineering faculty
 an engineer of aircraft engines
 
 
 ## Languages:
 
-English - Intermediate  
-Ukrainian  
-Czech - В1  
-Russian
+- English - Intermediate  
+- Ukrainian  
+- Czech - В1  
+- Russian
